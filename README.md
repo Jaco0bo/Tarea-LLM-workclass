@@ -4,6 +4,12 @@
 
 ## Guía 1: Hello World AI con Python y la API de OpenAI
 
+1. Creación del entorno virtual y configuración de la clave API:
 
+**Entorno virtual:**
 
+![](./images/imagen1.png.png)
 
+**Script de Python:**
+
+![](./images/imagen2.png)
