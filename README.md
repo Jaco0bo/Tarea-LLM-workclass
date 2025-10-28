@@ -8,8 +8,14 @@
 
 **Entorno virtual:**
 
-![](./images/imagen1.png.png)
+![](./images/imagen1.png)
 
 **Script de Python:**
 
+![](./images/imagen3.png)
+
+**Ejecución:**
+
 ![](./images/imagen2.png)
+
+
