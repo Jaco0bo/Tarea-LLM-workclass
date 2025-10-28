@@ -18,4 +18,20 @@
 
 ![](./images/imagen2.png)
 
+## Guía 2:  Hello World AI en Jupyter Notebook en VS Code
+
+**Creamos el entorno:**
+
+![](./images/imagen4.png)
+
+**Instalamos dependencias:**
+
+![](./images/imagen5.png)
+
+**Añadimos las celdas de jupyter con el codigo:**
+
+![](./images/imagen6.png)
+
+
+![](./images/imagen7.png)
 
